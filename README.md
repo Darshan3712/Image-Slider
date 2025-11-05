@@ -35,9 +35,13 @@ This project demonstrates key front-end development skills such as:
 image-slider-project/
 │
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling for the slider
+
 ├── script.js # JavaScript functionality
+
 └── images/ # Folder containing images for the slider
+
 ├── img1.jpg
 ├── img2.jpg
 ├── img3.jpg
@@ -92,8 +96,11 @@ image-slider-project/
 🧑‍💻 Author
 
 Darshan Jadhav
+
 📧 Email: jadhavdarshan006@gmail.com
+
 🌐 GitHub: Darshan3712
+
 💼 LinkedIn: https://www.linkedin.com/in/darshan-jadhav-915b10372
 
 
